@@ -12,6 +12,6 @@ if days.lower()=="n":
   print(60*60*24*365,"seconds in a year ")
 elif days.lower()=="y":
   print("If its a leap year then it will have:")
-  print(60*60*24*366,"seconds in a year")
+  print(60*60*24*366,"seconds in a leap year")
 else:
   print("please enter a valid input")
